@@ -1,0 +1,25 @@
+/* Main Styles */
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: movieFont;
+  src: url(../font/Shabnam.ttf);
+}
+
+@font-face {
+  font-family: englishFont;
+  src: url(../font/Roboto-Medium.ttf);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: movieFont;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
